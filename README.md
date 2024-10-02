@@ -1,29 +1,16 @@
-# todo-app
+# code_challenge-version-1 frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Este proyecto es la parte visual del proyecto backend [API](https://github.com/javiersaavedraalcala/code_challenge-version-1-backend)
 
-## Recommended IDE Setup
+## Instrucciones para ejecutar
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1. Clonar/Descargar este repositorio
+2. Ejecutar los siguientes comandos para levantar el servicio:
+   ````bash
+   npm run install
+   npm run dev
+   ```
+3. Ahora se debe clonar/descargar el repositorio [API](https://github.com/javiersaavedraalcala/code_challenge-version-1-backend) para el sevicio backend
+* Seguir las instrucciones en el otro repositorio para levantar el servicio backend
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+> **Importante:** Por default el servicio frontend se levanta en en la url http://localhost:5173/ si deseas cambiarlo es importante que también vayas a /src/api/config.js y ahí también lo modifiques.
