@@ -1,7 +1,8 @@
 # code_challenge-version-1 frontend
 
 Puedes testear a la aplicación en el siguiente link https://code-challenge-vercel.vercel.app/
-El FrontEnd esta desplegada en Vercel y el backend en Digital Ocean
+
+El FrontEnd esta desplegada en Vercel y el backend en Digital Ocean.
 
 Este proyecto es la parte visual del proyecto backend [API](https://github.com/javiersaavedraalcala/code_challenge-version-1-backend)
 
